@@ -1,0 +1,4 @@
+.error-page {
+ min-height:calc(100vh - 256px);
+ text-align:center
+}

@@ -1,0 +1,199 @@
+{
+  "id": "424db6a6-0e39-4eff-8e18-d6a9336a0222",
+  "version": "2.0",
+  "name": "2",
+  "url": "https://poocoin.app",
+  "tests": [{
+    "id": "9f5518ff-f777-4866-bb76-bbde92ecacb5",
+    "name": "2",
+    "commands": [{
+      "id": "f53b0ae8-6d3a-4756-aab6-80da9de4ba12",
+      "comment": "",
+      "command": "open",
+      "target": "/tokens/0x0e118b154566c43ccd9b3b52cc6d4137a75871a7",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "52acc615-fbef-433e-b397-033f558257d1",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "550x692",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d2e13548-144d-4ce9-89b5-ee12277fbb88",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9b1a376f-9383-4bc1-b098-0b781c70e337",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,179)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ffe8dff9-219f-425f-b59c-2a740a7b073c",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a325c7f7-9d56-4900-b6b9-7213d786d6cf",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a3d9fb24-4a6d-4d28-a913-df1881e9ae8d",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "dfbcfb10-a04b-4139-a2df-ba043c552ef4",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2a01596f-69eb-4327-9710-e64befa71dfa",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.nav-item > .active",
+      "targets": [
+        ["css=.nav-item > .active", "css:finder"],
+        ["xpath=//div[@id='root']/div/div[2]/div[2]/div[2]/div/ul/li[2]/button", "xpath:idRelative"],
+        ["xpath=//li[2]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Wallet')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "66085f07-3f9b-4c3b-9e9c-106415e32371",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.nav-item > .active",
+      "targets": [
+        ["css=.nav-item > .active", "css:finder"],
+        ["xpath=//div[@id='root']/div/div[2]/div[2]/div[2]/div/ul/li[2]/button", "xpath:idRelative"],
+        ["xpath=//li[2]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Wallet')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "397e0d83-1976-4d16-a9b0-8ebfaec56a90",
+      "comment": "",
+      "command": "click",
+      "target": "css=.nav-item:nth-child(1) > .btn-sm",
+      "targets": [
+        ["css=.nav-item:nth-child(1) > .btn-sm", "css:finder"],
+        ["xpath=//div[@id='root']/div/div[2]/div[2]/div[2]/div/ul/li/button", "xpath:idRelative"],
+        ["xpath=//li/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Promoted')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b16b056d-4423-436a-93e9-1cff81811e83",
+      "comment": "",
+      "command": "click",
+      "target": "css=.nav-item:nth-child(2) > .btn-sm",
+      "targets": [
+        ["css=.nav-item:nth-child(2) > .btn-sm", "css:finder"],
+        ["xpath=//div[@id='root']/div/div[2]/div[2]/div[2]/div/ul/li[2]/button", "xpath:idRelative"],
+        ["xpath=//li[2]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Wallet')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "9e3bf98b-407d-4f38-aae0-d948f1108d9e",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.nav-item:nth-child(2) > .btn-sm",
+      "targets": [
+        ["css=.nav-item:nth-child(2) > .btn-sm", "css:finder"],
+        ["xpath=//div[@id='root']/div/div[2]/div[2]/div[2]/div/ul/li[2]/button", "xpath:idRelative"],
+        ["xpath=//li[2]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Wallet')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "40fb37b3-7123-499d-b8d0-2ce3c87d7ef1",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.nav-item > .active",
+      "targets": [
+        ["css=.nav-item > .active", "css:finder"],
+        ["xpath=//div[@id='root']/div/div[2]/div[2]/div[2]/div/ul/li[2]/button", "xpath:idRelative"],
+        ["xpath=//li[2]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Wallet')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "c3626818-d072-4aef-a42f-02332a6a582e",
+      "comment": "",
+      "command": "click",
+      "target": "css=.nav-item:nth-child(3) > .btn-sm",
+      "targets": [
+        ["css=.nav-item:nth-child(3) > .btn-sm", "css:finder"],
+        ["xpath=//div[@id='root']/div/div[2]/div[2]/div[2]/div/ul/li[3]/button", "xpath:idRelative"],
+        ["xpath=//li[3]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Starred')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "2f0f95ef-8abc-46c2-99b6-54791d4d3118",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0fcb904e-96f1-4832-9a88-99934aba3aa3",
+      "comment": "",
+      "command": "click",
+      "target": "css=.ReactVirtualized__Table__rowColumn > .text-light",
+      "targets": [
+        ["css=.ReactVirtualized__Table__rowColumn > .text-light", "css:finder"],
+        ["xpath=//div[@id='root']/div/div[2]/div[2]/div[2]/div/div[3]/div/div/div/div/div[2]/div/div/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/tokens/0x0e118b154566c43ccd9b3b52cc6d4137a75871a7')]", "xpath:href"],
+        ["xpath=//div/div/div/div[2]/div/div/div/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "34f29fae-f098-4cec-aec6-9b5f7b5d5404",
+      "comment": "",
+      "command": "click",
+      "target": "css=.ReactVirtualized__Table__rowColumn > .text-light",
+      "targets": [
+        ["css=.ReactVirtualized__Table__rowColumn > .text-light", "css:finder"],
+        ["xpath=//div[@id='root']/div/div[2]/div[2]/div[2]/div/div[3]/div/div/div/div/div[2]/div/div/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/tokens/0x0e118b154566c43ccd9b3b52cc6d4137a75871a7')]", "xpath:href"],
+        ["xpath=//div/div/div/div[2]/div/div/div/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "830d33a4-1d71-4401-ae23-77f06fe135ab",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "83f122db-636b-408a-8a1a-f0605cef3108",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["9f5518ff-f777-4866-bb76-bbde92ecacb5"]
+  }],
+  "urls": ["https://poocoin.app/"],
+  "plugins": []
+}
